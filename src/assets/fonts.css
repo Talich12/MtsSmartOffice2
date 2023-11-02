@@ -1,0 +1,159 @@
+/* MTSCompact-Black */
+@font-face {
+    font-family: 'MTSCompact-Black';
+    src: url('./fonts/Compact/MTSCompact-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/*MTSCompact-Bold */
+@font-face {
+    font-family: 'MTSCompact-Bold';
+    src: url('./fonts/Compact/MTSCompact-Bold.ttf') format(truetype);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*MTSCompact-Medium */
+@font-face {
+    font-family: 'MTSCompact-Medium';
+    src: url('./fonts/Compact/MTSCompact-Medium.ttf') format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*MTSCompact-Regular */
+@font-face {
+    font-family: 'MTSCompact-Regular';
+    src: url('./fonts/Compact/MTSCompact-Regular.ttf') format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* <=====================================================================================> */
+
+/* MTSExtended-Black */
+@font-face {
+    font-family: 'MTSExtended-Black';
+    src: url('./fonts/Extended/MTSExtended-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/*MTSExtended-Bold */
+@font-face {
+    font-family: 'MTSExtended-Bold';
+    src: url('./fonts/Extended/MTSExtended-Bold.ttf') format(truetype);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*MTSExtended-Medium */
+@font-face {
+    font-family: 'MTSExtended-Medium';
+    src: url('./fonts/Extended/MTSExtended-Medium.ttf') format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*MTSExtended-Regular */
+@font-face {
+    font-family: 'MTSExtended-Regular';
+    src: url('./fonts/Extended/MTSExtended-Regular.ttf') format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* <=====================================================================================> */
+
+/* MTSText-Black */
+@font-face {
+    font-family: 'MTSText-Black';
+    src: url('./fonts/Text/MTSText-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/*MTSText-Bold */
+@font-face {
+    font-family: 'MTSText-Bold';
+    src: url('./fonts/Text/MTSText-Bold.ttf') format(truetype);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*MTSText-Medium */
+@font-face {
+    font-family: 'MTSText-Medium';
+    src: url('./fonts/Text/MTSText-Medium.ttf') format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*MTSText-Regular */
+@font-face {
+    font-family: 'MTSText-Regular';
+    src: url('./fonts/Text/MTSText-Regular.ttf') format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* <=====================================================================================> */
+
+/* MTSUltraExtended-Black */
+@font-face {
+    font-family: 'MTSUltraExtended-Black';
+    src: url('./fonts/UltraExtended/MTSUltraExtended-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/*MTSUltraExtended-Bold */
+@font-face {
+    font-family: 'MTSUltraExtended-Bold';
+    src: url('./fonts/UltraExtended/MTSUltraExtended-Bold.ttf') format(truetype);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*MTSUltraExtended-Regular */
+@font-face {
+    font-family: 'MTSUltraExtended-Regular';
+    src: url('./fonts/UltraExtended/MTSUltraExtended-Regular.ttf') format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* <=====================================================================================> */
+
+/* MTSWide-Black */
+@font-face {
+    font-family: 'MTSWide-Black';
+    src: url('./fonts/Wide/MTSWide-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/*MTSWide-Bold */
+@font-face {
+    font-family: 'MTSWide-Bold';
+    src: url('./fonts/Wide/MTSWide-Bold.ttf') format(truetype);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/*MTSWide-Medium */
+@font-face {
+    font-family: 'MTSWide-Medium';
+    src: url('./fonts/Wide/MTSWide-Medium.ttf') format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+
+/*MTSWide-Regular */
+@font-face {
+    font-family: 'MTSWide-Regular';
+    src: url('./fonts/Wide/MTSWide-Regular.ttf') format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
